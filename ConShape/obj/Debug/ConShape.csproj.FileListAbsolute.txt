@@ -1,0 +1,8 @@
+Z:\QQ130\MIDTERM\ConShape\ConShape\bin\Debug\ConShape.exe.config
+Z:\QQ130\MIDTERM\ConShape\ConShape\bin\Debug\ConShape.exe
+Z:\QQ130\MIDTERM\ConShape\ConShape\bin\Debug\ConShape.pdb
+Z:\QQ130\MIDTERM\ConShape\ConShape\obj\Debug\ConShape.csproj.AssemblyReference.cache
+Z:\QQ130\MIDTERM\ConShape\ConShape\obj\Debug\ConShape.csproj.SuggestedBindingRedirects.cache
+Z:\QQ130\MIDTERM\ConShape\ConShape\obj\Debug\ConShape.csproj.CoreCompileInputs.cache
+Z:\QQ130\MIDTERM\ConShape\ConShape\obj\Debug\ConShape.exe
+Z:\QQ130\MIDTERM\ConShape\ConShape\obj\Debug\ConShape.pdb
